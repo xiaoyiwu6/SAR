@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/123.jpg</file>
+        <file>image/bgp.png</file>
+        <file>image/bgp1.png</file>
+        <file>image/bgpic1.jpg</file>
+        <file>image/bgpic2.jpg</file>
+        <file>image/buttonbg.png</file>
+        <file>image/main_about.png</file>
+        <file>image/main_company.png</file>
+        <file>image/main_config.png</file>
+        <file>image/main_data.png</file>
+        <file>image/main_exit.png</file>
+        <file>image/main_help.png</file>
+        <file>image/main_main.png</file>
+        <file>image/main_person.png</file>
+        <file>image/fontawesome-webfont.ttf</file>
+        <file>image/UESTC.png</file>
+        <file>image/road.png</file>
+        <file>image/trees.png</file>
+        <file>image/water.png</file>
+        <file>image/bldg.png</file>
+        <file>image/vegetation.png</file>
+        <file>image/buildings.png</file>
+        <file>image/cars.png</file>
+        <file>image/glass.png</file>
+        <file>image/roads.png</file>
+    </qresource>
+</RCC>
